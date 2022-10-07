@@ -3,3 +3,6 @@
 ## -variables
 ## -writing to files
 ## -Unit testing
+## - maps
+## - interfaces
+## - structs
